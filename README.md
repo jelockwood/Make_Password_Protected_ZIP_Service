@@ -1,7 +1,7 @@
 # Make_Password_Protected_ZIP_Service
 Make Password Protected ZIP
 
-This is an Apple Automator Service. It executes an AppleScript which presents the user a series of dialog boxes which take the user through the process of creating a password protected ZIP file.
+This is an Apple Automator Service. It executes an AppleScript which presents the user a series of dialog boxes which take the user through the process of creating a password protected ZIP file. The script calls the built-in zip tool but unlike the built-in Apple 'Compress' service this script gives the ability to set a password protection on the resulting Zip file.
 
 This was based on a previous scrip I found in a user forum but has been heavily improved and many issues fixed. This version supports ziping a single file, or an entire folder of files.
 
